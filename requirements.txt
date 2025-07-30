@@ -1,0 +1,33 @@
+# NBPDCL Electricity Theft Detection System - Requirements
+# Python Dependencies for AI-Powered Theft Detection
+
+# Core Framework
+streamlit==1.28.0
+
+# Data Processing & Analysis
+pandas==2.1.0
+numpy==1.25.0
+
+# Data Visualization
+plotly==5.15.0
+
+# Standard Libraries (usually included with Python)
+datetime
+io
+warnings
+
+# Additional Utilities
+openpyxl==3.1.2          # For Excel file support (optional)
+xlsxwriter==3.1.9        # For Excel export (optional)
+
+# Development & Testing
+pytest==7.4.0           # For unit testing (optional)
+black==23.7.0           # Code formatting (optional)
+
+# System Information
+# Python Version: 3.9+
+# Minimum RAM: 4GB
+# Disk Space: 1GB free
+
+# Installation Command:
+# pip install -r requirements.txt
